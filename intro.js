@@ -1,0 +1,14 @@
+const DateofBirth=2005;
+console.log(DateofBirth);
+const sibling=5;
+console.log(sibling);
+const students=50;
+console.log(students);
+const marks=8;
+console.log(marks);
+const rooms=10;
+console.log(rooms);
+const hour=7;
+console.log(hour);
+const total=20;
+console.log(total);
